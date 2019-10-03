@@ -1,0 +1,11 @@
+.one-card {
+    width: 30%;
+    display:inline-block;
+    height: 320px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#cards {
+    text-align: center;
+}
